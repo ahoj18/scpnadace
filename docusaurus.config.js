@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SCP Nadace',
   tagline: 'Dinosaurs are cool',
-  url: 'https://scpnadace.cz',
-  baseUrl: 'https://scpnadace.cz/my-project/',
+  url: 'https://scpnadace.com',
+  baseUrl: 'https://scpnadace.c/my-project/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
