@@ -9,7 +9,7 @@ const config = {
   title: 'SCP Nadace',
   tagline: 'Dinosaurs are cool',
   url: 'https://scpnadace.cz',
-  baseUrl: '/',
+  baseUrl: 'https://scpnadace.cz/my-project/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
